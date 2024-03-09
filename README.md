@@ -13,7 +13,7 @@
    Create a `.env` file in the root directory of the project and add the following environment variables:
    ```
    PORT=3000
-   MONGODB_URI=mongodb://localhost:27017/movie_database
+   MONGODB_URI=mongodb://localhost:27017/movies
    ```
 
 4. **Start MongoDB:**
